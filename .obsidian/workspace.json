@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c51ec9c904ce569f",
+        "id": "6880114835f1e3da",
         "type": "tabs",
         "children": [
           {
-            "id": "6e5a0b52f08266c9",
+            "id": "d04bc8a2e82cf70d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Problem Solving.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Data Structures and Problem Solving"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Problem Solving.md",
+                "file": "Arrays/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Structures and Problem Solving"
+              "title": "Backlinks for Arrays"
             }
           },
           {
@@ -112,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Problem Solving.md",
+                "file": "Arrays/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Structures and Problem Solving"
+              "title": "Outgoing links from Arrays"
             }
           },
           {
@@ -139,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Problem Solving.md"
+                "file": "Arrays/Arrays.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Structures and Problem Solving"
+              "title": "Outline of Arrays"
             }
           }
         ]
@@ -160,13 +156,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e5a0b52f08266c9",
+  "active": "d04bc8a2e82cf70d",
   "lastOpenFiles": [
     "README.md",
+    "Excalidraw/TemporaryWhiteBoard.md",
+    "Arrays/Arrays.md",
+    "Arrays/ArraysBoard.excalidraw.md",
+    "Untitled 1.md",
+    "Excalidraw",
+    "Data Structures and Problem Solving.md",
     "ExcaliBoards",
     "Images",
     "Hashmaps",
@@ -175,7 +177,6 @@
     "Queue",
     "Stack",
     "Arrays",
-    "LinkedList",
-    "Data Structures and Problem Solving.md"
+    "LinkedList"
   ]
 }
