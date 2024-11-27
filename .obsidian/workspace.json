@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d52a866bb1678b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c51ec9c904ce569f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5a0b52f08266c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Problem Solving.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Structures and Problem Solving"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacae8b86a9d3af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3694f32cf0653a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee49b098d65e7eb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3883ee6e92fbbcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35664d174dda6960",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6bb91f1ffb11136",
+    "type": "split",
+    "children": [
+      {
+        "id": "256bd223e90b1ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98773a1b1592f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures and Problem Solving.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Structures and Problem Solving"
+            }
+          },
+          {
+            "id": "010f748cf7e71e2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures and Problem Solving.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data Structures and Problem Solving"
+            }
+          },
+          {
+            "id": "e28e73adb9c19f86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9bb19acbc98b0b65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures and Problem Solving.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Data Structures and Problem Solving"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "6e5a0b52f08266c9",
+  "lastOpenFiles": [
+    "README.md",
+    "ExcaliBoards",
+    "Images",
+    "Hashmaps",
+    "Graphs",
+    "Trees",
+    "Queue",
+    "Stack",
+    "Arrays",
+    "LinkedList",
+    "Data Structures and Problem Solving.md"
+  ]
+}
