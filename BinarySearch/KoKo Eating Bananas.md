@@ -38,3 +38,5 @@ Copy
 ---
 
 ![[BinarySearch/BinarySearch.excalidraw.md#^group=ytl4WQiH1_vRPONoAtyAi|100%]]
+
+[[Binary Search]]

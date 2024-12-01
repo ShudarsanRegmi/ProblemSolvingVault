@@ -70,3 +70,8 @@ public:
 
 <p style='color:red;font-size:20px'>I need to look at this again. I've written this by looking at a solution</p>
 
+![[Trees/BST/BinarySearch.excalidraw.md#^group=_cfD5wBlLFLAGnyJkxPVw|100%]]
+
+![[Trees/BST/BinarySearch.excalidraw.md#^group=1BJ6WT_IyqOVGoCvx-Lgf|100%]]
+### Fitting both the pieces together
+![[Trees/BST/BinarySearch.excalidraw.md#^group=TJNrQS569L95w-n1vs9gj|1000%]]

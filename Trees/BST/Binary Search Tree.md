@@ -43,7 +43,7 @@ struct node *insert(struct node *node, int key) {
     }else {  
         node->right = insert(node->right, key);  
     }  
-    return node; // I don't know why I always miss this line. I know I've less insights in this  
+    return node; // I don't know why I always miss this line. I know I've less insights in this. What will society think of me
 }  
   
 // find the inorder successor  
