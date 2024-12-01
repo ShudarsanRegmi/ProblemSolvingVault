@@ -6,7 +6,12 @@ using namespace std;
 int main() {
     string s = "xyzabcd";
 
-    cout << s.substr(0,2);
+    cou
+    if (s.find('A') == string::npos) {
+        cout << "not found" << endl;
+    }else{
+        cout << "found" << endl;
+    }
     cout << endl;
     return 0;
 }
