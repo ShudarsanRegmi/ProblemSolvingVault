@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8029929c84d281ae",
+        "id": "c247553a69c9fff9",
         "type": "tabs",
         "children": [
           {
-            "id": "c89088909bcb9357",
+            "id": "45f3ff65d1fc30f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Graphs/Graph.md",
-                "mode": "source",
-                "source": false
+                "file": "LinkedList/LinkedList.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Graph"
+              "icon": "excalidraw-icon",
+              "title": "LinkedList.excalidraw"
             }
           }
         ]
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6bb91f1ffb11136",
@@ -164,24 +163,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c89088909bcb9357",
+  "active": "45f3ff65d1fc30f1",
   "lastOpenFiles": [
+    "Pasted Image 20241205094749_805.png",
+    "Sorting/Merge Sort.md",
+    "Sorting/Sorting.excalidraw.md",
+    "Pasted Image 20241205043410_160.png",
+    "Sorting",
+    "Strings.md",
+    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
+    "LeetCodeDaily/2337. Move pieces to obtain a string.md",
+    "Excalidraw/TemporaryWhiteBoard.md",
+    "Arrays/118. Pascal Triangle.md",
+    "Arrays/ArraysBoard.excalidraw.md",
+    "Pasted Image 20241204085113_687.png",
+    "Pasted Image 20241204085038_972.png",
+    "LeetCodeDaily/2825. Make String a Subsequence Using Cyclic Increments.md",
+    "Strings/Strings.md",
+    "Strings",
+    "35. Search Insert Position.md",
+    "Arrays/Remove Element.md",
+    "Arrays/Remove Duplicate from a sorted Array.md",
+    "LeetCodeDaily/Spaces In A String.md",
+    "Pasted Image 20241203100621_009.png",
+    "Pasted image 20241203100418.png",
+    "Graphs/Graph.md",
+    "LeetCodeDaily",
+    "Graphs/Drawing 2024-12-03 05.08.25.excalidraw.md",
+    "Graphs/Find Path.md",
     "CPP_PlayGround/Pair_Sums.cpp",
     "CPP_PlayGround/D_Sharky_Surfing.cpp",
     "CPP_PlayGround/cphelper.bin",
     "CPP_PlayGround/cphelper.cpp",
     "Graphs/Images/Pasted image 20241201163747.png",
     "Pasted Image 20241128090204_338.png",
-    "Graphs/Graph.md",
     "Pasted image 20241201162948.png",
     "Graphs/Images/Pasted image 20241201162553.png",
     "Graphs/Images/Pasted image 20241201162422.png",
     "Graphs/Images",
-    "Pasted Image 20241128091136_849.png",
-    "Pasted Image 20241130075627_383.png",
-    "Trees/BST/Images/Pasted Image 20241201030015_508.png",
-    "Trees/Images/Pasted Image 20241201024442_443.png",
-    "Trees/Images/Pasted Image 20241201003453_596.png",
     "Binary Search Tree (BST).md",
     "Trees/BST/Images",
     "Numbers/Happy Numbers.md",
@@ -191,26 +210,6 @@
     "Trees/BST/BinarySearch.excalidraw.md",
     "Trees/Good Nodes in  a Binary Tree.md",
     "Trees/BST/Binary Search Tree.md",
-    "Trees/Tree.excalidraw.md",
-    "BinarySearch/BinarySearch.excalidraw.md",
-    "BinarySearch/Search in Rotated Sorted Array.md",
-    "Trees/Tree.md",
-    "Arrays/Merge Two Sorted Arrays.md",
-    "BinarySearch/Binary Search.md",
-    "BinarySearch/KoKo Eating Bananas.md",
-    "BinarySearch/Search  a 2D matrix.md",
-    "Arrays/Maximum Sum SubArray.md",
-    "Arrays/ArraysBoard.excalidraw.md",
-    "Arrays/Arrays.md",
-    "Trees/Right Side View in a Binary Search Tree.md",
-    "Trees/Maximum Depth of a Binary Tree.md",
-    "Trees/BST/Search in a Binary Search Tree.md",
-    "Trees/BST/Insert Into a Binary Search Tree.md",
-    "BitManipulation/SingleNumber.md",
-    "Trees/BST",
-    "Trees/Level Order Traversal.md",
-    "BitManipulation",
-    "Trees/Images",
-    "BinarySearch/Images"
+    "Trees/Tree.excalidraw.md"
   ]
 }
