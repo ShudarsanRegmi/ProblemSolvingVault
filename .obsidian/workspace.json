@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6842657e74287e96",
+        "id": "1a43f1f9f7121117",
         "type": "tabs",
         "children": [
           {
-            "id": "50f0f55e6c355a71",
+            "id": "dcf6afd284c48e04",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Image 20241205043410_160.png"
+                "file": "LinkedList/138. Copy List with random pointer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20241205043410_160"
+              "icon": "lucide-file",
+              "title": "138. Copy List with random pointer"
+            }
+          },
+          {
+            "id": "dc1efea87b14dbc4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "LinkedList/LinkedList.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "LinkedList.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6bb91f1ffb11136",
@@ -162,47 +178,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50f0f55e6c355a71",
+  "active": "dc1efea87b14dbc4",
   "lastOpenFiles": [
-    "Pasted Image 20241204085038_972.png",
+    "LinkedList/LinkedList.md",
+    "LinkedList/138. Copy List with random pointer.md",
+    "LinkedList/LinkedList.excalidraw.md",
+    "Pasted Image 20241214043327_545.png",
+    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
+    "LeetCodeDaily/2593. Find Score of an Array After Marking All Elements.md",
+    "Arrays/Top 3 Largest element in an array.md",
+    "Sorting/Bucket Sorting.md",
+    "Sorting/Sorting.excalidraw.md",
+    "Pasted Image 20241211174454_278.png",
+    "Pasted Image 20241211173617_841.png",
+    "Pasted image 20241211172348.png",
+    "Pasted Image 20241211163231_939.png",
+    "LeetCodeDaily/2981. Find Longest Special Substring That Occurs Thrice I.md",
     "Trees/Tree.excalidraw.md",
     "Trees/Tree.md",
-    "Trees/BST/BinarySearch.excalidraw.md",
-    "Trees/BST/Binary Search Tree.md",
-    "LinkedList/LinkedList.md",
     "LinkedList/Reversing a Linked List.md",
-    "LinkedList/LinkedList.excalidraw.md",
-    "LinkedList/21. Merge Two Sorted Lists.md",
-    "Contests/Drawing 2024-12-08 08.15.27.excalidraw.md",
-    "Contests/Transformed Array.md",
-    "Theorems/Line Sweep 1D.md",
+    "LinkedList/143. Reorder List.md",
+    "LinkedList/2095. Delete the middle node of a linked list.md",
+    "LeetCodeDaily/3152. Special Array II.md",
+    "Arrays/Untitled.md",
+    "Arrays/ArraysBoard.excalidraw.md",
+    "Arrays/Special Array I.md",
+    "LeetCodeDaily/2825. Make String a Subsequence Using Cyclic Increments.md",
+    "LeetCodeDaily/2554. Maximum Number of Integers to Choose From a Range I.md",
+    "LeetCodeDaily/2337. Move pieces to obtain a string.md",
+    "LinkedList/2. Add two numbers.md",
+    "Arrays/287. Find the duplicate number.md",
+    "Arrays/Remove Duplicate from a sorted Array.md",
     "Theorems/Theorems.excalidraw.md",
+    "Theorems/Floyd's Tortoise and Hare Algorithm.md",
+    "Pasted Image 20241205043410_160.png",
+    "Pasted Image 20241204085038_972.png",
     "Contests",
     "Pasted Image 20241208071636_629.png",
-    "Excalidraw/TemporaryWhiteBoard.md",
     "Pasted Image 20241208065700_946.png",
-    "Stack/Reversing a stack.md",
-    "LeetCodeDaily/2554. Maximum Number of Integers to Choose From a Range I.md",
-    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
-    "LeetCodeDaily/2825. Make String a Subsequence Using Cyclic Increments.md",
-    "LeetCodeDaily/2337. Move pieces to obtain a string.md",
-    "LinkedList/234. Palindrome Linked List.md",
-    "LinkedList/142. Linked List Cycle II.md",
-    "Theorems/Kadane's Algorithm.md",
     "Images/Pasted Image 20241127193203_754.png",
-    "Theorems/Floyd's Tortoise and Hare Algorithm.md",
-    "Arrays/287. Find the duplicate number.md",
-    "Arrays/ArraysBoard.excalidraw.md",
     "Theorems",
-    "Arrays/Arrays.md",
-    "Pasted Image 20241205214327_780.png",
-    "Pasted Image 20241205094749_805.png",
-    "Pasted Image 20241205043410_160.png",
     "Sorting",
-    "Pasted Image 20241204085113_687.png",
     "Strings",
-    "Pasted Image 20241203100621_009.png",
-    "Pasted image 20241203100418.png",
     "LeetCodeDaily",
     "CPP_PlayGround/Pair_Sums.cpp",
     "CPP_PlayGround/D_Sharky_Surfing.cpp",

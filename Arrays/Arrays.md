@@ -1,8 +1,10 @@
 Here I'll Keep Arrays Note
+
+![[Arrays/ArraysBoard.excalidraw.md#^group=U2WwsiqFT4RllpbZ3M51z|100%]]
+
 ### Some Core Concepts on Arrays
 
 - No. of SubArrays = $n(n+1)/2$
-
 
 ### Naive Approach to Find SubArrays
 
