@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff5d887891cca0c",
+        "id": "72bf486c96696ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb45f4561918227",
+            "id": "4c620d1b339c9a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/228. Summary Ranges.md",
+                "file": "Arrays/2239. Find the number closest to Zero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "228. Summary Ranges"
+              "title": "2239. Find the number closest to Zero"
             }
           }
         ]
@@ -164,13 +164,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cb45f4561918227",
+  "active": "4c620d1b339c9a6a",
   "lastOpenFiles": [
+    "Sorting/Count Sort.md",
+    "Arrays/2239. Find the number closest to Zero.md",
+    "Arrays/769. Max Chunks to make Sorted.md",
+    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
+    "LeetCodeDaily/769. Max Chunks To Make Sorted Array.md",
+    "Sorting/Sorting.excalidraw.md",
+    "Excalidraw/TemporaryWhiteBoard.md",
+    "Binary Search Tree (BST).md",
+    "Concepts.md",
+    "Sorting/Stability in Sorting Algorithm.md",
+    "Sorting/Radix Sort.md",
+    "Sorting/Merge Sort.md",
+    "Arrays/ArraysBoard.excalidraw.md",
+    "Arrays/1752. Check if Array Is Sorted and Rotated.md",
+    "Arrays/56. Merge Intervals.md",
     "Arrays/228. Summary Ranges.md",
     "Arrays/14. Longest Common Prefix.md",
-    "Arrays/ArraysBoard.excalidraw.md",
     "Arrays/392. Is SubSequence.md",
-    "Concepts.md",
     "Arrays/Merge String Alternately.md",
     "Trees/Tree.excalidraw.md",
     "Trees/Same Tree.md",
@@ -179,21 +192,8 @@
     "Two Pointers/485. Max Consecutive Ones.md",
     "Recursion/Untitled.md",
     "Two Pointers/643. Maximum Average Subarray.md",
-    "Recursion/Recursion.md",
     "Two Pointers",
-    "Stack/682. Baseball Game.md",
-    "Stack/BackTracking/46. Permutations.md",
-    "Stack/BackTracking/78. Subsets.md",
-    "Stack/BackTracking/BackTracking.excalidraw.md",
-    "Recursion/Recursion.excalidraw.md",
-    "Stack/BackTracking/17. Letter Combinations of a Phone Number.md",
-    "Stack/BackTracking/77. Combinations.md",
-    "Stack/BackTracking/Back Tracking.md",
-    "Stack/Generate Parenthesis.md",
-    "Stack/Stack.excalidraw.md",
     "Stack/BackTracking",
-    "Stack/Stack Implementation Using Queue.md",
-    "Stack/150. Evaluate Reverse Polish Notation.md",
     "Pasted Image 20241214043327_545.png",
     "Pasted Image 20241211174454_278.png",
     "Pasted Image 20241211173617_841.png",
