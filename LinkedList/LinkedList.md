@@ -119,6 +119,9 @@ while(fast && fast->next) {
 
 <p style='color:green'> <li style='color:green'> slow points to the exact middle in case of odd no. of hodes</li>
 <li style='color:green'> [middleLeft, middleRight] and <span style='color:pink'>middleLeft </span> node in case of even of. of nodes i</p>
+
+![[LinkedList/LinkedList.excalidraw.md#^group=Zlbt6kM5|100%]]
+
 ### Playing code
 
 ```cpp
