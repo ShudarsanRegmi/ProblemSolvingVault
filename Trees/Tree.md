@@ -142,3 +142,29 @@ void dfs(TreeNode *root) {
 
 
 
+
+## Breadth First Search(BFS) :  
+
+```cpp
+// written by own.. worked for simple case.. yet to verify this
+void bfs(TreeNode* root) {  
+    if (!root) return;  
+    queue<TreeNode*> Q;  
+    Q.push(root);  
+    TreeNode *cur;  
+    while (!Q.empty()) {  
+        cur = Q.front();  
+        cout << cur->val << '\t';  
+  
+        if (cur->left) {  
+            Q.push(cur->left);  
+        }  
+  
+        if (cur->right) {  
+            Q.push(cur->right);  
+        }  
+        Q.pop();  
+    }  
+}
+```
+

@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "257d5ba891ac7fb8",
+        "id": "52a2c7156c0d9174",
         "type": "tabs",
         "children": [
           {
-            "id": "615811333e565569",
+            "id": "a6c1f93741178abc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sorting/Stability in Sorting Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Stability in Sorting Algorithm"
+            }
+          },
+          {
+            "id": "eaf6dcb7a443bf9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Contests/gfg/188/gfg188excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "gfg188excalidraw"
             }
           }
         ]
@@ -160,30 +176,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "615811333e565569",
+  "active": "a6c1f93741178abc",
   "lastOpenFiles": [
-    "LinkedList/LinkedList.md",
-    "LinkedList/LinkedList.excalidraw.md",
-    "Trees/Tree.excalidraw.md",
-    "Pasted Image 20241222180825_695.png",
-    "Trees/BST/437. Path Sum III.md",
-    "Stack/BackTracking/BackTracking.md",
-    "Trees/113. Path Sum II.md",
-    "Excalidraw/QuestionsNetwork.excalidraw.md",
-    "Trees/Different styles of dfs recursion.md",
-    "Trees/112. Paths Sum.md",
-    "Excalidraw/TemporaryWhiteBoard.md",
-    "Trees/257. Binary Tree Paths.md",
-    "Trees/Tree.md",
-    "Excalidraw/Drawing 2024-12-22 11.55.57.excalidraw.md",
-    "QuestionsNetwork",
-    "Arrays/88. Merge Sorted Array.md",
-    "Arrays/Merge Two Sorted Arrays.md",
+    "Contests/Drawing 2024-12-08 08.15.27.excalidraw.md",
+    "Sorting/Sorting.excalidraw.md",
+    "Sorting/Radix Sort.md",
+    "Sorting/Merge Sort.md",
+    "Sorting/Count Sort.md",
+    "Sorting/Bucket Sorting.md",
+    "Two Pointers/15.  3Sum.md",
+    "Contests/gfg/188/gfg188excalidraw.md",
+    "Contests/gfg/188",
+    "Contests/gfg",
+    "Two Pointers/twopointers.excalidraw.md",
+    "Untitled 1",
+    "Two Pointers/Untitled",
+    "Matrix/Matrix.excalidraw.md",
+    "BrainTeaser/2425. Bitwise XOR of All Pairings.md",
+    "Matrix/661. Image Smoother.md",
+    "BrainTeaser",
+    "Matrix",
+    "Untitled",
     "Concepts.md",
-    "Trees/BST/Binary Search Tree (BST).md",
-    "README.md",
-    "Strings.md",
-    "BinarySearch/35. Search Insert Position.md",
+    "Strings/3. Longest Substring Without Repeating Characters.md",
+    "Strings/String.excalidraw.md",
+    "Strings/5. Longest Palindromic Substring.md",
+    "Arrays/414. Third Maximum Number.md",
+    "Strings/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md",
+    "LeetCodeDaily/3042. Count Prefix and Suffix Pairs I.md",
+    "Strings/2185. Counting Words With a Given Prefix.md",
+    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
+    "Theorems/Theorems.excalidraw.md",
+    "Theorems/KMP Algorithm.md",
+    "LeetCodeDaily/1408. String Matching in an Array.md",
+    "LeetCodeDaily/1769. Minimum Number of Operations to Move All Balls to Each Box.md",
+    "LeetCodeDaily/1930. Unique Palindromic Subsequence.md",
+    "Pasted Image 20241227160409_660.png",
+    "Greedy's Approach",
+    "Heaps",
+    "Pasted Image 20241222180825_695.png",
+    "QuestionsNetwork",
     "Images/Pasted Image 20241214043327_545.png",
     "Images/Pasted Image 20241211174454_278.png",
     "Images/Pasted Image 20241211173617_841.png",
@@ -191,22 +223,6 @@
     "Images/Pasted Image 20241211163231_939.png",
     "Images/Pasted Image 20241208071636_629.png",
     "Images/Pasted Image 20241208065700_946.png",
-    "Images/Pasted Image 20241205214327_780.png",
-    "Images/Pasted Image 20241205094749_805.png",
-    "Arrays/2239. Find the number closest to Zero.md",
-    "Sorting/Count Sort.md",
-    "Arrays/769. Max Chunks to make Sorted.md",
-    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
-    "LeetCodeDaily/769. Max Chunks To Make Sorted Array.md",
-    "Sorting/Sorting.excalidraw.md",
-    "Two Pointers",
-    "Stack/BackTracking",
-    "Contests",
-    "Theorems",
-    "Sorting",
-    "Strings",
-    "LeetCodeDaily",
-    "CPP_PlayGround/Pair_Sums.cpp",
-    "CPP_PlayGround/D_Sharky_Surfing.cpp"
+    "Images/Pasted Image 20241205214327_780.png"
   ]
 }

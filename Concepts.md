@@ -6,4 +6,4 @@
 4. Rotated sorted arrays
 5. Moores Voting Algorithm
 6. chuk based loop(while loop.. whose loop variable is modified inside the array..)
-7. 
+7. MaxFrequencies in case of vector of words
