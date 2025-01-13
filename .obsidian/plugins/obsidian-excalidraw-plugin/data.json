@@ -100,7 +100,53 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.8",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "tx4gN4D4",
+            "type": "text",
+            "x": 820.8078062191346,
+            "y": 31093.22879803598,
+            "width": 1181.25,
+            "height": 86.39999999999999,
+            "angle": 0,
+            "strokeColor": "#1971c2",
+            "backgroundColor": "#a5d8ff",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "c07y",
+            "roundness": null,
+            "seed": 1513738359,
+            "version": 478,
+            "versionNonce": 359188759,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1736591265329,
+            "link": null,
+            "locked": false,
+            "text": "this problem can be framed as:\nbreak down the hashmaps to form two palindromic hashmaps",
+            "rawText": "this problem can be framed as:\nbreak down the hashmaps to form two palindromic hashmaps",
+            "fontSize": 36,
+            "fontFamily": 3,
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": null,
+            "originalText": "this problem can be framed as:\nbreak down the hashmaps to form two palindromic hashmaps",
+            "autoResize": true,
+            "lineHeight": 1.2
+          }
+        ],
+        "id": "E4IeFmdh9KiLRSnzobxa2",
+        "created": 1736591266991
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52a2c7156c0d9174",
+        "id": "47952281f9e6b2c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c1f93741178abc",
+            "id": "72775ee77df90cd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sorting/Stability in Sorting Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Stability in Sorting Algorithm"
-            }
-          },
-          {
-            "id": "eaf6dcb7a443bf9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Contests/gfg/188/gfg188excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "gfg188excalidraw"
+              "title": "New tab"
             }
           }
         ]
@@ -89,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6bb91f1ffb11136",
@@ -176,8 +161,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6c1f93741178abc",
+  "active": "72775ee77df90cd4",
   "lastOpenFiles": [
+    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
+    "LeetCodeDaily/3233. Minimum Length of String After Operations.md",
+    "LeetCodeDaily/1400. Construct K Palindrome Strings.md",
+    "Theorems/Theorems.excalidraw.md",
+    "Theorems/Line Sweep 1D.md",
+    "Theorems/KMP Algorithm.md",
+    "Theorems/Floyd's Tortoise and Hare Algorithm.md",
+    "Contests/gfg/188/gfg188excalidraw.md",
+    "Sorting/Stability in Sorting Algorithm.md",
     "Contests/Drawing 2024-12-08 08.15.27.excalidraw.md",
     "Sorting/Sorting.excalidraw.md",
     "Sorting/Radix Sort.md",
@@ -185,7 +179,6 @@
     "Sorting/Count Sort.md",
     "Sorting/Bucket Sorting.md",
     "Two Pointers/15.  3Sum.md",
-    "Contests/gfg/188/gfg188excalidraw.md",
     "Contests/gfg/188",
     "Contests/gfg",
     "Two Pointers/twopointers.excalidraw.md",
@@ -203,14 +196,6 @@
     "Strings/5. Longest Palindromic Substring.md",
     "Arrays/414. Third Maximum Number.md",
     "Strings/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md",
-    "LeetCodeDaily/3042. Count Prefix and Suffix Pairs I.md",
-    "Strings/2185. Counting Words With a Given Prefix.md",
-    "LeetCodeDaily/LeetCodeDaily.excalidraw.md",
-    "Theorems/Theorems.excalidraw.md",
-    "Theorems/KMP Algorithm.md",
-    "LeetCodeDaily/1408. String Matching in an Array.md",
-    "LeetCodeDaily/1769. Minimum Number of Operations to Move All Balls to Each Box.md",
-    "LeetCodeDaily/1930. Unique Palindromic Subsequence.md",
     "Pasted Image 20241227160409_660.png",
     "Greedy's Approach",
     "Heaps",
